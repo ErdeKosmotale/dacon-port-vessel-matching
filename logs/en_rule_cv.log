@@ -1,0 +1,7 @@
+fold 0
+fold 1
+fold 2
+fold 3
+fold 4
+ENGLISH real (A items)   n=17954 base=17467 | d0.05/t0.06: sw 1065 fix 13 brk 751 | d0.1/t0.06: sw 769 fix 8 brk 508 | d0.2/t0.06: sw 383 fix 2 brk 222 | d0.3/t0.06: sw 189 fix 2 brk 95 | d0.05/t1.0: sw 2131 fix 5 brk 1733 | d0.1/t1.0: sw 1771 fix 0 brk 1408 | d0.2/t1.0: sw 1040 fix 0 brk 756 | d0.3/t1.0: sw 518 fix 0 brk 316
+ENGLISH x-items          n=871 base=230 | d0.05/t0.06: sw 764 fix 0 brk 229 | d0.1/t0.06: sw 714 fix 0 brk 227 | d0.2/t0.06: sw 576 fix 0 brk 202 | d0.3/t0.06: sw 398 fix 0 brk 151 | d0.05/t1.0: sw 834 fix 0 brk 230 | d0.1/t1.0: sw 796 fix 0 brk 230 | d0.2/t1.0: sw 738 fix 0 brk 229 | d0.3/t1.0: sw 652 fix 0 brk 221

@@ -1,0 +1,16 @@
+# competition data (download from DACON)
+train.csv
+vessel_catalog.csv
+test.csv
+data/
+# large intermediate artifacts
+*.npy
+!src/lmv.npy
+*.pkl
+*.zip
+__pycache__/
+output/
+sim_*/
+nz_*/
+nzf0_*/
+out/

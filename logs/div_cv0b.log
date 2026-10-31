@@ -1,0 +1,3 @@
+HANGUL real        n=  834 base=772 big=770 habig=771 enbig=690 base+all=773 base+big=773 base+habig=774 base+enbig=753
+ENGLISH real       n= 3208 base=3134 big=3132 habig=2989 enbig=3132 base+all=3130 base+big=3132 base+habig=3118 base+enbig=3131
+HANGUL renamed+x   n=  188 base=135 big=130 habig=134 enbig=131 base+all=137 base+big=134 base+habig=135 base+enbig=139

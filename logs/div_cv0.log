@@ -1,0 +1,3 @@
+HANGUL real        n=  834 base=772 xendcg=750 bin=624 big=770 base+all=750 base+xendcg=762 base+bin=710 base+big=773
+ENGLISH real       n= 3208 base=3134 xendcg=3103 bin=2459 big=3132 base+all=3117 base+xendcg=3116 base+bin=3085 base+big=3132
+HANGUL renamed+x   n=  188 base=135 xendcg=118 bin=94 big=130 base+all=127 base+xendcg=129 base+bin=104 base+big=134

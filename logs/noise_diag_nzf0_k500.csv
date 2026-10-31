@@ -1,0 +1,24 @@
+sid,kind,ton,name,truth,pick,n_cands,in_cands,rank,nsim_truth,nsim_pick,r_first,r_rom,r_romp,r_sk
+NOISE_00017,typo2,False,베마그그이스,Vemagrace,Emma Grace,902,True,2,1.0,0.0,7,395,162,8
+NOISE_00038,typo2,False,주카티,Tijuca,MM Sejati,931,False,0,,0.1651369333267212,9481,973,2297,12026
+NOISE_00049,typo1,False,호제주,Daeho Jeju,Ojas,956,True,2,0.8747186064720154,1.0,19,1,1,71
+NOISE_00055,typo1,False,오콩코드2,Ocean Concord 2,GNG Concord 2,833,True,2,1.0,1.0,48,1461,4241,318
+NOISE_00096,typo1,False,글로비스 커지리,Glovis Courage,Glovis Cougar,850,True,2,1.0,1.0,86,412,6010,1242
+NOISE_00129,typo2,False,와엔 산,YN Busan,JS Onsan,884,True,2,0.46308887004852295,0.8908940553665161,2458,345,145,1698
+NOISE_00173,typo2,False,아 콕,Heung-A Bangkok,A Kakogawa,879,False,0,,1.0,4927,800,6,13404
+NOISE_00210,typo2,False,이사언,Halcyon,Jason,933,False,0,,0.0,5597,5410,18914,4671
+NOISB_00003,typo2,False,썬 프아,Sun Freesia,Sun Flora,909,False,0,,0.93439120054245,3758,1401,322,7922
+NOISB_00018,typo2,False,에스 하,Ace Hana,High SD Yihe,988,False,0,,1.0,783,931,3440,837
+NOISB_00056,typo2,False,오 프호,Ocean Hope,Opera,970,False,0,,1.0,4521,556,34,10669
+NOISB_00062,typo2,False,라리 상상하이,Lila Shanghai,SY Shanghai,795,True,4,1.0,1.0,116,1,321,1879
+NOISB_00082,typo1,False,벨루루가 에이,Beluga A,Bell Bay,892,True,2,1.0,1.0,1,5,250,1
+NOISB_00083,typo2,False,벨루루루가 에이,Beluga A,Bell Bay,869,True,2,1.0,1.0,1,5,251,1
+NOISB_00097,typo1,True,베마레이스,Vemagrace,Veles,1139,True,3,0.7742586731910706,0.8370025753974915,63,883,404,6
+NOISB_00098,typo2,True,베마마레이스,Vemagrace,YM Mars,1101,True,2,0.9761075377464294,1.0,29,1958,3104,6
+NOISB_00126,typo2,False,대 니써,Daeho Sunny,Danisa,964,False,0,,1.0,6003,766,668,7891
+NOISB_00128,typo1,False,할이언,Halcyon,Lion,897,True,2,0.12727344036102295,0.3166921138763428,40,15,708,82
+NOISB_00132,typo2,False,시앤 드,CNC Dream,Sand,961,False,0,,1.0,27460,25060,21791,10403
+NOISB_00146,typo1,False,레이크 스즈타,Lake Stars,Blue Lake Star,956,True,2,1.0,1.0,239,157,6000,540
+NOISB_00165,typo2,False,알비 에,RB Eden,RB Leah,1018,True,9,0.0,1.0,18154,1688,3656,1059
+NOISB_00186,typo2,False,스파 콜오피,Spar Scorpio,Spar Corona,963,True,2,1.0,1.0,607,105,1222,3682
+NOISB_00195,typo2,False,타오 너,Tao Mariner,Tai Honor,887,True,2,1.0,0.7132340669631958,2395,123,279,3663

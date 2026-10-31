@@ -1,0 +1,6 @@
+saved 386 rows in 151.0s
+nzf0_base acc 0.9145 | clean/ton=82/82 typo1/noton=65/76 typo1/ton=79/80 typo2/noton=55/74 typo2/ton=72/74
+saved 386 rows in 241.6s
+nzf0_k500 acc 0.9404 | clean/ton=82/82 typo1/noton=70/76 typo1/ton=79/80 typo2/noton=59/74 typo2/ton=73/74
+saved 386 rows in 278.6s
+nzf0_v43 acc 0.9378 | clean/ton=82/82 typo1/noton=70/76 typo1/ton=79/80 typo2/noton=58/74 typo2/ton=73/74

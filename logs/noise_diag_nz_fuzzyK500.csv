@@ -1,0 +1,22 @@
+sid,kind,ton,name,truth,pick,n_cands,in_cands,rank,nsim_truth,nsim_pick,r_first,r_rom,r_romp,r_sk
+NOISE_00026,typo2,False,에스 이글,Equinox Eagle,ES Care,989,False,0,,1.0,5518,423,9429,7604
+NOISE_00083,typo2,False,바오루이,Bao Rui Ling,Bao Rui Tong,878,True,2,1.0,1.0,175,6,1,368
+NOISE_00096,typo2,False,와엔이 부,YN Busan,NCC Yanbu,894,False,0,,1.0,12798,3374,4114,2921
+NOISE_00240,typo2,False,골든든 치,Golden Hachi,Golden Chie,709,True,2,0.9828264117240906,1.0,15,4,341,670
+NOISE_00324,typo2,False,로글비스 선선,Glovis Sun,Glovis Sunshine,992,True,2,1.0,1.0,1181,162,4420,5142
+NOISE_00335,typo1,False,세다,Velsheda,Sadar Indah,903,True,12,0.0,1.0,1112,76,23,1988
+NOISE_00377,typo2,False,파 리,Spar Rigel,Da Li,902,False,0,,0.3582158088684082,4144,411,1200,11468
+NOISE_00380,typo2,False,상하이 저,Shanghai Voyager,CA Shanghai,912,True,2,1.0,1.0,274,66,42,922
+NOISE_00386,typo2,False,스타 키,Star Skipper,Star Clipper,949,True,2,1.0,1.0,560,401,295,4161
+NOISE_00430,typo2,False,이타하 5,Taihai 5,Taha,850,True,2,0.0,1.0,12,27,68,1
+NOISE_00433,typo2,False,씨와이 터인오오션 투,CY Interocean II,Sino Ocean,942,True,32,0.629162609577179,1.0,2123,7145,21549,2423
+NOISE_00491,typo1,False,뉴크,New Konk,Woo Hyuk,1033,True,2,1.0,0.9510306715965271,810,982,3631,742
+NOISE_00557,typo1,False,진포춘,Dongjin Fortune,ONE Fortune,948,False,0,,0.36006200313568115,1369,955,333,7367
+NOISE_00622,typo2,False,비스 스릿프,Venus Spirit,Wisteria Ace,1031,False,0,,1.0,1958,466,3498,6892
+NOISE_00628,typo2,False,콘 샤인,Pancon Sunshine,Conscience,909,False,0,,1.0,7407,1914,434,12149
+NOISE_00685,typo1,False,니써 퀸,Sunny Queen,PS Queen,956,False,0,,1.0,8635,4403,6484,7424
+NOISE_00692,typo2,False,아아라,Arahan,Aral,765,False,0,,0.8360437154769897,1805,911,26,3266
+NOISE_00739,typo1,False,지하이 ,ZY Hi Sheng,Gao Xin Zhi Hai,883,False,0,,1.0,2011,10747,16499,819
+NOISE_00787,typo2,False,동산 푸 이,Shandong Fu Hui,Shandong Fu Yi,843,True,2,1.0,1.0,2594,1249,1278,7688
+NOISE_00829,typo2,False,바샨오 스,Baoshan Star,Asian Venus,910,True,3,1.0,1.0,291,109,238,794
+NOISE_00846,typo1,False,드레 크누센,Sindre Knutsen,Torill Knutsen,894,True,3,1.0,1.0,29,1,54,2852

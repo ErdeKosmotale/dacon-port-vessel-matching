@@ -1,0 +1,4 @@
+saved 851 rows in 359.8s
+nz_base acc 0.9471 | clean/ton=300/300 typo1/noton=131/146 typo1/ton=136/137 typo2/noton=100/129 typo2/ton=139/139
+saved 851 rows in 516.6s
+nz_fuzzy acc 0.9671 | clean/ton=300/300 typo1/noton=139/146 typo1/ton=137/137 typo2/noton=108/129 typo2/ton=139/139

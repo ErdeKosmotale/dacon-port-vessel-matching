@@ -1,0 +1,41 @@
+fold 0
+fold 1
+fold 2
+fold 3
+fold 4
+true vessel gap > tau (all items with tonnage, truth retrieved): {0.06: 252, 0.08: 76, 0.1: 1, 0.15: 0, 0.25: 0} of 27718
+HANGUL               n= 11330 base=0.9312 | 0.06: sw 61 fix 0 brk 55 | 0.08: sw 28 fix 0 brk 23 | 0.1: sw 1 fix 0 brk 0 | 0.15: sw 1 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   abbr              n=   328 base=0.8354 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   abbr_typo         n=   307 base=0.8078 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 1 fix 0 brk 0 | 0.1: sw 1 fix 0 brk 0 | 0.15: sw 1 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   mix               n=   917 base=0.9858 | 0.06: sw 41 fix 0 brk 41 | 0.08: sw 14 fix 0 brk 14 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   orig              n=  1191 base=0.9958 | 0.06: sw 8 fix 0 brk 8 | 0.08: sw 4 fix 0 brk 4 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   prefix            n=   366 base=0.8661 | 0.06: sw 1 fix 0 brk 1 | 0.08: sw 1 fix 0 brk 1 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   renamed           n=   189 base=0.5608 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 1 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   swap              n=   168 base=0.9702 | 0.06: sw 2 fix 0 brk 2 | 0.08: sw 2 fix 0 brk 2 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   swap_typo         n=   101 base=0.9604 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   synko             n=  5128 base=0.9943 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   synko_abbr        n=   367 base=0.8120 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 1 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   synko_abbr_typo   n=   240 base=0.6750 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   synko_dup         n=   752 base=0.9840 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   trunc             n=   129 base=0.9147 | 0.06: sw 1 fix 0 brk 1 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   trunc_typo        n=   101 base=0.8614 | 0.06: sw 1 fix 0 brk 1 | 0.08: sw 1 fix 0 brk 1 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   typo2_sdel        n=   144 base=0.9583 | 0.06: sw 1 fix 0 brk 1 | 0.08: sw 1 fix 0 brk 1 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   xabbr             n=   214 base=0.8458 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   xabbr_typo        n=   119 base=0.8235 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 1 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   xprefix           n=   127 base=0.8425 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   xprefix_typo      n=    71 base=0.9155 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 1 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   xren              n=   371 base=0.4367 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+ENGLISH              n= 16911 base=0.9424 | 0.06: sw 194 fix 3 brk 187 | 0.08: sw 49 fix 1 brk 47 | 0.1: sw 1 fix 0 brk 0 | 0.15: sw 1 fix 0 brk 0 | 0.25: sw 1 fix 0 brk 0
+   abbr              n=   424 base=0.8821 | 0.06: sw 2 fix 2 brk 0 | 0.08: sw 1 fix 1 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   abbr_typo         n=   290 base=0.8379 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   dup               n=  1329 base=0.9962 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   init              n=   416 base=0.9663 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   mix               n=  2014 base=0.9985 | 0.06: sw 163 fix 0 brk 163 | 0.08: sw 42 fix 0 brk 42 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   orig              n= 10238 base=0.9996 | 0.06: sw 24 fix 0 brk 24 | 0.08: sw 5 fix 0 brk 5 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   prefix            n=   319 base=0.9342 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   prefix_typo       n=   191 base=0.8586 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   renamed           n=   303 base=0.3300 | 0.06: sw 1 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   swap              n=   412 base=0.9927 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   trunc             n=    93 base=0.9247 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   trunc_typo        n=    69 base=0.8986 | 0.06: sw 0 fix 0 brk 0 | 0.08: sw 0 fix 0 brk 0 | 0.1: sw 0 fix 0 brk 0 | 0.15: sw 0 fix 0 brk 0 | 0.25: sw 0 fix 0 brk 0
+   xren              n=   813 base=0.2829 | 0.06: sw 4 fix 1 brk 0 | 0.08: sw 1 fix 0 brk 0 | 0.1: sw 1 fix 0 brk 0 | 0.15: sw 1 fix 0 brk 0 | 0.25: sw 1 fix 0 brk 0

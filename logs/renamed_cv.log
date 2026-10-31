@@ -1,0 +1,21 @@
+fold 0
+fold 1
+fold 2
+fold 3
+fold 4
+ENG  orig     no strong wrong-name match   n=10235 acc=1.000 r2=0.000 r3=0.000 deep=0.000 pick=name-owner 0.000
+ENG  orig     wrong-name owner ELIGIBLE    n=    3 acc=1.000 r2=0.000 r3=0.000 deep=0.000 pick=name-owner 0.000
+ENG  renamed  no strong wrong-name match   n=    9 acc=0.222 r2=0.000 r3=0.000 deep=0.778 pick=name-owner 0.000
+ENG  renamed  wrong-name owner excluded    n=  294 acc=0.333 r2=0.129 r3=0.034 deep=0.503 pick=name-owner 0.000
+ENG  xren     no strong wrong-name match   n=   82 acc=0.280 r2=0.171 r3=0.085 deep=0.463 pick=name-owner 0.000
+ENG  xren     wrong-name owner ELIGIBLE    n=    3 acc=0.333 r2=0.333 r3=0.333 deep=0.000 pick=name-owner 0.000
+ENG  xren     wrong-name owner excluded    n=  728 acc=0.283 r2=0.129 r3=0.051 deep=0.537 pick=name-owner 0.000
+HANG orig     no strong wrong-name match   n=  955 acc=0.996 r2=0.004 r3=0.000 deep=0.000 pick=name-owner 0.000
+HANG orig     wrong-name owner ELIGIBLE    n=  165 acc=0.994 r2=0.006 r3=0.000 deep=0.000 pick=name-owner 0.006
+HANG orig     wrong-name owner excluded    n=   71 acc=1.000 r2=0.000 r3=0.000 deep=0.000 pick=name-owner 0.000
+HANG renamed  no strong wrong-name match   n=    2 acc=1.000 r2=0.000 r3=0.000 deep=0.000 pick=name-owner 0.000
+HANG renamed  wrong-name owner ELIGIBLE    n=   71 acc=0.507 r2=0.127 r3=0.042 deep=0.324 pick=name-owner 0.000
+HANG renamed  wrong-name owner excluded    n=  116 acc=0.586 r2=0.138 r3=0.043 deep=0.233 pick=name-owner 0.000
+HANG xren     no strong wrong-name match   n=    4 acc=0.750 r2=0.250 r3=0.000 deep=0.000 pick=name-owner 0.000
+HANG xren     wrong-name owner ELIGIBLE    n=  203 acc=0.438 r2=0.177 r3=0.064 deep=0.320 pick=name-owner 0.025
+HANG xren     wrong-name owner excluded    n=  164 acc=0.427 r2=0.165 r3=0.079 deep=0.329 pick=name-owner 0.000
