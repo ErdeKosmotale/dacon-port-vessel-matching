@@ -1,0 +1,5 @@
+read v44_f1.pkl 3264 items
+read v44_f2.pkl 6499 items
+read v44_f3.pkl 9606 items
+read v44_f4.pkl 12841 items
+materialised v44a (3848335, 94) items 12841 mean list 1227.1 -> 299.7

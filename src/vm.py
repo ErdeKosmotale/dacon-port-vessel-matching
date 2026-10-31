@@ -302,6 +302,7 @@ def ko_as_letters(tok: str):
 
 
 KO_NUM_RE = re.compile(r"제?\s*(\d+)\s*호?")
+KO_NUM_WORDS = {"원": 1, "투": 2, "쓰리": 3, "스리": 3, "파이브": 5, "식스": 6, "세븐": 7, "에이트": 8, "나인": 9}
 
 
 def ko_split(name: str):
@@ -317,6 +318,10 @@ def ko_split(name: str):
     for i, t in enumerate(toks):
         if t.startswith("제") and len(t) > 1 and False:
             toks[i] = t[1:]
+    # a trailing Korean rendering of an English number word ("인터오션 투" = "Interocean II") is a number, not a name token
+    if len(toks) >= 2 and toks[-1] in KO_NUM_WORDS:
+        nums.append(str(KO_NUM_WORDS[toks[-1]]))
+        toks = toks[:-1]
     return toks, nums
 
 
